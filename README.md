@@ -19,3 +19,27 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/aircraft-battle.git
+
+Navigate to the project directory:
+cd aircraft-battle
+
+Ensure you have the EasyXPng library and necessary graphics library set up.
+Compile the code using your preferred C++ compiler.
+
+Run the executable:
+./aircraft_battle
+
+## Controls
+Arrow Keys: Move the aircraft.
+Up Arrow: Move up
+Down Arrow: Move down
+Left Arrow: Move left
+Right Arrow: Move right
+
+Spacebar: Fire bullets
+F1: Toggle debug information
+M: Pause/Resume the game
+Esc: Exit the game
+
+## Assets
+Ensure to place any required images in the specified directories for the game to run smoothly.
